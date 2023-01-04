@@ -31,3 +31,11 @@ git commit -m "Style.css módosítva - háttér" - már kiírja a console-ba, am
 git remote add origin git@github.com:szcsaba87/szabocsaba-gitvizsga-0104.git - hozzákapcsolom a githubot
 
 git push -u origin console - feltöltöm a githubra
+
+Valami porszem került a gépezetbe, úgyhogy a teszt.txt-t eltávolítom.
+
+git add . - ezzel létrejött az utolsó verzió
+
+git commit -m "Read.me véglegesítése"
+
+git push -u origin console - feltöltöm a githubra
