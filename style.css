@@ -16,7 +16,7 @@ body{
 
 .music-container{
 
-    background: #fff;
+    background-image: linear-gradient(red, yellow);
     border-radius: 15px;
     box-shadow: 0 20px 20px 0 rgba(221,224,252,0.6);
     display: flex;
