@@ -1,3 +1,5 @@
+window.addEventListener("load",() => {console.log("Betöltődött az oldal")});
+
 const musicContainer = document.getElementById("music-container");
 const playBtn = document.getElementById("play");
 const prevBtn = document.getElementById("prev");
